@@ -43,7 +43,7 @@ function These_Two_Windows () {
                         }}
                     />
                     <p style={{ marginTop: "115px", marginLeft: "25px", fontSize: "50px" }}>
-                        12 Notes
+                        These Two Windows
                     </p>
                 </div>
                 <div style={{ display: "flex", paddingLeft: "37px" }}>
