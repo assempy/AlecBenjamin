@@ -1,6 +1,7 @@
 import './style.css';
 import twelve_notes from './12notes.jpeg';
 import A6 from './A6.jpeg';
+import React from 'react';
 
 function Sacrifice_tomorrow_song() {
     const lyrics = [

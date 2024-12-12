@@ -1,6 +1,7 @@
 import './style.css';
 import twelve_notes from './12notes.jpeg';
 import A9 from './A9.jpeg';
+import React from 'react';
 
 function Lead_me_to_water_song() {
     const lyrics = [

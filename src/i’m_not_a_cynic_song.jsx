@@ -1,6 +1,7 @@
 import './style.css';
 import two_wind from './2wind.jpeg';
-import B7 from './B.7jpeg';
+import B7 from './B7.jpg';
+import React from 'react';
 
 function I_am_not_a_cynic_song () {
     const lyrics = [

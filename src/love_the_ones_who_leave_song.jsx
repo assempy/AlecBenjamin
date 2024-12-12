@@ -1,6 +1,7 @@
 import './style.css';
 import twelve_notes from './12notes.jpeg';
 import A12 from './A12.jpeg';
+import React from 'react';
 
 function Love_the_ones_who_leave_song() {
     const lyrics = [

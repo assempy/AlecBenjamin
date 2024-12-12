@@ -1,6 +1,7 @@
 import './style.css';
 import two_wind from './2wind.jpeg';
 import B1 from './B1.jpeg';
+import React from 'react';
 
 function Mind_is_a_prison_song() {
     const lyrics = [

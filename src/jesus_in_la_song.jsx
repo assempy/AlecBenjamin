@@ -1,6 +1,7 @@
 import './style.css';
 import two_wind from './2wind.jpeg';
-import B6 from './B6.jpeg';
+import B6 from './B6.jpg';
+import React from 'react';
 
 function Jesus_in_la_song () {
     const lyrics = [

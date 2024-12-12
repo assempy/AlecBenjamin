@@ -1,6 +1,7 @@
 import './style.css';
 import two_wind from './2wind.jpeg';
-import B5 from './B5.jpeg';
+import B5 from './B5.jpg';
+import React from 'react';
 
 function Match_in_the_rain_song () {
     const lyrics = [

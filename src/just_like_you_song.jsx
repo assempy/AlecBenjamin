@@ -1,6 +1,7 @@
 import './style.css';
 import two_wind from './2wind.jpeg';
-import B10 from './B10.jpeg';
+import B10 from './B10.jpg';
+import React from 'react';
 
 function Just_like_you_song() {
   const lyrics = [

@@ -1,6 +1,7 @@
 import './style.css';
 import two_wind from './2wind.jpeg';
-import B4 from './B4.jpeg';
+import B4 from './B4.jpg';
+import React from 'react';
 
 function The_book_of_you_and_i_song () {
     const lyrics = [

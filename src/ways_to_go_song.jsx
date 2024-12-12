@@ -1,6 +1,7 @@
 import './style.css';
 import twelve_notes from './12notes.jpeg';
 import A2 from './A2.jpeg';
+import React from 'react';
 
 function Ways_to_go_song() {
     const lyrics = [

@@ -1,6 +1,7 @@
 import './style.css';
 import twelve_notes from './12notes.jpeg';
 import A4 from './A4.jpeg';
+import React from 'react';
 
 function Different_kind_of_beautiful_song() {
     const lyrics = [

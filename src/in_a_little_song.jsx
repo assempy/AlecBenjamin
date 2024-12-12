@@ -1,6 +1,7 @@
 import './style.css';
 import twelve_notes from './12notes.jpeg';
 import A3 from './A3.jpeg';
+import React from 'react';
 
 function In_a_little_song() {
     const lyrics = [

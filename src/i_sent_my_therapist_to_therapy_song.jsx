@@ -1,6 +1,7 @@
 import './style.css';
 import twelve_notes from './12notes.jpeg';
 import A7 from './A7.jpeg';
+import React from 'react';
 
 function I_sent_my_therapist_to_therapy_song() {
     const lyrics = [

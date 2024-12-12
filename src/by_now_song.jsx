@@ -1,6 +1,7 @@
 import './style.css';
 import twelve_notes from './12notes.jpeg';
 import A10 from './A10.jpeg';
+import React from 'react';
 
 function By_now_song() {
     const lyrics = [

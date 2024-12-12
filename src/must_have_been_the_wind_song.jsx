@@ -1,6 +1,7 @@
 import './style.css';
 import two_wind from './2wind.jpeg';
-import B9 from './B9.jpeg';
+import B9 from './B9.jpg';
+import React from 'react';
 
 function Must_have_been_the_wind_song() {
   const lyrics = [

@@ -1,6 +1,7 @@
 import './style.css';
 import twelve_notes from './12notes.jpeg';
 import A8 from './A8.jpeg';
+import React from 'react';
 
 function The_arsonist_song() {
     const lyrics = [

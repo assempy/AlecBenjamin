@@ -2,6 +2,7 @@ import './style.css';
 import twelve_notes from './12notes.jpeg';
 import A1a from './A1a.jpeg';
 import A1b from './A1b.jpeg';
+import React from 'react';
 
 function Tw_notes_song() {
     const lyrics = [

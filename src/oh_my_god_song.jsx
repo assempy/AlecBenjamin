@@ -1,6 +1,7 @@
 import './style.css';
 import two_wind from './2wind.jpeg';
 import B3 from './B3.jpeg';
+import React from 'react';
 
 function Oh_my_god_song() {
     const lyrics = [

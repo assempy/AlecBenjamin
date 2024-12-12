@@ -1,6 +1,7 @@
 import './style.css';
 import two_wind from './2wind.jpeg';
-import B2 from './B2.jpeg';
+import B2 from './B2.jpg';
+import React from 'react';
 
 function Demons_song() {
     const lyrics = [

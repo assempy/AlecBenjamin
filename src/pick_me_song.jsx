@@ -1,6 +1,7 @@
 import './style.css';
 import twelve_notes from './12notes.jpeg';
 import A5 from './A5.jpeg';
+import React from 'react';
 
 function Pick_me_song() {
     const lyrics = [

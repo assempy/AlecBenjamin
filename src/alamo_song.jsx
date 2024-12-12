@@ -1,6 +1,6 @@
 import './style.css';
 import two_wind from './2wind.jpeg';
-import B8 from './B8.jpeg';
+import B8 from './B8.jpg';
 
 function Alamo_song() {
   const lyrics = [
