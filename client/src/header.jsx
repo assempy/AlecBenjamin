@@ -29,7 +29,7 @@ function Header() {
                 >
                     Go back
                 </button>
-                {/* Поисковик закомментирован */}
+                {/* Поисковик */}
                 {/* <input
                     type="text"
                     placeholder="Search for a song"
